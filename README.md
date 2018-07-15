@@ -29,4 +29,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 npm install -g gh-pages
 ng build --prod --base-href "https://<user-name>.github.io/<repo>/"
+
+//Clean before publish
+C:\Users\Carlos\AppData\Roaming\npm\node_modules\gh-pages\.cache
 gh-pages -d dist
